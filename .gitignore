@@ -1,0 +1,5 @@
+node_modules/
+dist/
+# Custom
+src/**/*.js
+src/**/*.js.map
