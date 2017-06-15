@@ -2,11 +2,14 @@
 
 This project follows the guidelines of the Angular [Docs](https://angular.io/guide/webpack)
 
-To run this project
+<h2 align="center">Install</h2>
 
-..* ```Javascript
-    npm install
+```bash
+npm install
 ```
-..* ```Javascript
-    npm start
+
+<h2 align="center">Start</h2>
+
+```bash
+npm start
 ```
